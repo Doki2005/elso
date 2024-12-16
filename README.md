@@ -112,7 +112,7 @@ Jobbra igazított táblázat
 
 - __[Media Markt]__ http://mediamarkt.hu/ MediaMarkt Magyarország
 
-- Automatikus link __(https://arpadszki.hu)__
+- Automatikus link https://arpadszki.hu
 
 
 # Képek
@@ -121,17 +121,16 @@ Jobbra igazított táblázat
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 
 
-![Emoji](https://github.com/markdown-it/markdown-it-emoji)
+### [Emoji](https://github.com/markdown-it/markdown-it-emoji)
 
-Jelek:
-:blush: :kissing_closed_eyes: :stuck_out_tongue_closed_eyes:
+Jelek: :blush: :kissing_closed_eyes: :stuck_out_tongue_closed_eyes:
  
-![Lábjegyzet](https://github.com/markdown-it/markdown-it-footnote)
+### [Lábjegyzet](https://github.com/markdown-it/markdown-it-footnote)
 Forgalomirányító protokollok:  
 - RIP[^1]
 - OSPF[^2]
 
-[^1]Routing Information Protocol
+[^1]:Routing Information Protocol
 
-[^2]Open Shortest Path First
+[^2]:Open Shortest Path First
 
