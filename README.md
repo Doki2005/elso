@@ -110,7 +110,7 @@ Jobbra igazított táblázat
 
 - __[Aqua](http://aqua.hu)__
 
-- __[Media Markt]__(http://mediamarkt.hu/ "MediaMarkt Magyarország")
+- __[Media Markt](http://mediamarkt.hu/ "MediaMarkt Magyarország")__
 
 - Automatikus link https://arpadszki.hu
 
